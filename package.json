@@ -1,6 +1,6 @@
 {
   "name": "@erictsaihm/ioredis",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Nest - a ioredis module (@ioredis)",
   "author": "Nest Modules TM - Custom Eric Tsai",
   "private": false,
